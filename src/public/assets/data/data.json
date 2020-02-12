@@ -1,0 +1,368 @@
+{
+   "Chat":[
+      {
+         "emisor":"speaker",
+         "mensaje":"texto"
+      },
+      {
+         "emisor":"agente",
+         "mensaje":"Muy buenos dias Bienvenido a Chec, Mi nombre es Deysi Gil y sere su asesora durante estaconsulta. "
+      },
+      {
+         "emisor":"cliente",
+         "mensaje":"Vea lo que pasa es que llevo mas de dos veces yendo a esa oficina de la chec para que me corrijan los datos que me estan llegando en la factura porque me esta llegando muy costosa. Ellos ya revisaron aqui el contador y me dijeron que fuera a la oficina, fui y nada no me resolvieron. Entonces ya estoy cansada de que me manden de un lado pa otro y nada de solucion, ya enestico llega la otra factura y me vuelven a cobrar un monton de plata, y yo eso asi no lo voy a pagar, que servicio tan malo y tan bueno en la ciudad de manizales "
+      }
+   ],
+   "Emocion":[
+      {
+         "Emocion":"Tristeza",
+         "Entidad":"",
+         "Palabra":"pasa",
+         "Sub Emocion":"Triste",
+         "Tipo":"",
+         "score":"-1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"llevo",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"yendo",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"oficina",
+         "Sub Emocion":"neutro",
+         "Tipo":"Lugar",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"chec",
+         "Sub Emocion":"neutro",
+         "Tipo":"Empresa",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"chec",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"corrijan",
+         "Sub Emocion":"Perjudicial",
+         "Tipo":"",
+         "score":"-2",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"llegando",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"Factura",
+         "Palabra":"factura",
+         "Sub Emocion":"neutro",
+         "Tipo":"Keyword",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"llegando",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Superlativos",
+         "Entidad":"",
+         "Palabra":"muy",
+         "Sub Emocion":"Superlativos",
+         "Tipo":"",
+         "score":"7",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"costosa",
+         "Sub Emocion":"Molestia",
+         "Tipo":"",
+         "score":"-5",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Sorpresa",
+         "Entidad":"",
+         "Palabra":"revisaron",
+         "Sub Emocion":"Extraeza",
+         "Tipo":"",
+         "score":"1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"Contador",
+         "Palabra":"contador",
+         "Sub Emocion":"neutro",
+         "Tipo":"Keyword",
+         "score":"0",
+         "sub Categoria":"Revision Contador"
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"oficina",
+         "Sub Emocion":"neutro",
+         "Tipo":"Lugar",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Negaciones",
+         "Entidad":"",
+         "Palabra":"nada",
+         "Sub Emocion":"Negaciones",
+         "Tipo":"",
+         "score":"-6",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Negaciones",
+         "Entidad":"",
+         "Palabra":"no",
+         "Sub Emocion":"Negaciones",
+         "Tipo":"",
+         "score":"-6",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"Atencion",
+         "Palabra":"resolvieron",
+         "Sub Emocion":"Descontento",
+         "Tipo":"Keyword",
+         "score":"-4",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"cansada",
+         "Sub Emocion":"irritado",
+         "Tipo":"",
+         "score":"-2",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"manden",
+         "Sub Emocion":"Adverso",
+         "Tipo":"",
+         "score":"-1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Negaciones",
+         "Entidad":"",
+         "Palabra":"nada",
+         "Sub Emocion":"Negaciones",
+         "Tipo":"",
+         "score":"-6",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"Servicio",
+         "Palabra":"solucion",
+         "Sub Emocion":"Descontento",
+         "Tipo":"Keyword",
+         "score":"-4",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"llega",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"Factura",
+         "Palabra":"factura",
+         "Sub Emocion":"neutro",
+         "Tipo":"Keyword",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Confianza",
+         "Entidad":"",
+         "Palabra":"vuelven",
+         "Sub Emocion":"Esperanza",
+         "Tipo":"",
+         "score":"1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"cobrar",
+         "Sub Emocion":"Insatisfecho",
+         "Tipo":"",
+         "score":"-1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"cobrar",
+         "Sub Emocion":"Insatisfecho",
+         "Tipo":"",
+         "score":"-1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"monton",
+         "Sub Emocion":"Molesto",
+         "Tipo":"",
+         "score":"-1",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Negaciones",
+         "Entidad":"",
+         "Palabra":"no",
+         "Sub Emocion":"Negaciones",
+         "Tipo":"",
+         "score":"-6",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"Factura",
+         "Palabra":"pagar",
+         "Sub Emocion":"Descontento",
+         "Tipo":"Keyword",
+         "score":"-4",
+         "sub Categoria":"Pagar Factura"
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"Servicio",
+         "Palabra":"servicio",
+         "Sub Emocion":"neutro",
+         "Tipo":"Keyword",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Superlativos",
+         "Entidad":"",
+         "Palabra":"tan",
+         "Sub Emocion":"Superlativos",
+         "Tipo":"",
+         "score":"8",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"malo",
+         "Sub Emocion":"Molestia",
+         "Tipo":"",
+         "score":"-5",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Enfado",
+         "Entidad":"",
+         "Palabra":"malo",
+         "Sub Emocion":"Molestia",
+         "Tipo":"",
+         "score":"-5",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Superlativos",
+         "Entidad":"",
+         "Palabra":"tan",
+         "Sub Emocion":"Superlativos",
+         "Tipo":"",
+         "score":"8",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"Confianza",
+         "Entidad":"",
+         "Palabra":"bueno",
+         "Sub Emocion":"Seguridad",
+         "Tipo":"",
+         "score":"5",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"ciudad",
+         "Sub Emocion":"neutro",
+         "Tipo":"Lugar",
+         "score":"0",
+         "sub Categoria":" "
+      },
+      {
+         "Emocion":"neutro",
+         "Entidad":"",
+         "Palabra":"manizales",
+         "Sub Emocion":"neutro",
+         "Tipo":"",
+         "score":"0",
+         "sub Categoria":" "
+      }
+   ],
+   "Puntaje":[
+      {
+         "Emocion predominante":"enfado",
+         "Nivel Neutral":37.83783783783784,
+         "Nivel de Negativismo":45.945945945945944,
+         "Nivel de Positivismo":16.216216216216218
+      }
+   ]
+}
